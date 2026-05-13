@@ -1,0 +1,6 @@
+httpswww.ons.gov.ukemploymentandlabourmarketpeopleinworkearningsandworkinghoursdatasetsregionbyoccupation4digitsoc2010ashetable15utm 
+
+
+accessed 28/11
+
+process: renamed files to the year it covers, then created python script to extract data I would like to use for each year into a dataframe and exported to xlsx for use in Power BI

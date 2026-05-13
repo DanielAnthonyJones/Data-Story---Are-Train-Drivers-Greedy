@@ -1,0 +1,5 @@
+https://tfl.gov.uk/corporate/transparency/freedom-of-information/foi-request-detail?referenceId=FOI-3353-2526
+
+accessed 29/12/25
+
+process: used excel to change remove the mean salary for non spot rate jobs and formatted in a way easier for me to use in Power BI

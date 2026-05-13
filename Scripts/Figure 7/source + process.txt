@@ -1,0 +1,5 @@
+https://data-explorer.oecd.org/vis?tm=wages&pg=0&snb=114&vw=tb&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_EARNINGS%40AV_AN_WAGE&df[ag]=OECD.ELS.SAE&df[vs]=1.0&dq=GBR%2BUSA%2BESP%2BITA%2BDEU%2BFRA..USD_PPP....&pd=%2C&to[TIME_PERIOD]=false
+
+accessed 28/11/25
+
+process: created python script to add a percentage change column for each year then exported to csv for use in Power BI

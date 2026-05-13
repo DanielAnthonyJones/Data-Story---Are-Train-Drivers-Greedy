@@ -1,0 +1,6 @@
+https://yougov.co.uk/politics/articles/48279-public-support-for-strikes-slips-as-2024-begins
+
+accessed 28/11
+
+
+Process: Manually typed data into excel spreadsheet for use in Power BI
